@@ -9,7 +9,9 @@
 
 *** 
 
-* https://job-boards.greenhouse.io/anthropic/jobs/4926227008
+* [Performance Engineer, GPU](https://job-boards.greenhouse.io/anthropic/jobs/4926227008)
+* [Training Performance Engineer](https://openai.com/careers/training-performance-engineer-san-francisco/)
+
 ```
 Performance Engineer, GPU
 San Francisco, CA | New York City, NY | Seattle, WA
