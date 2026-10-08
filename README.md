@@ -2,6 +2,8 @@
 
 #### [vLLM & SGLang Engineering: End-to-End](https://vllm-sglang.vizuara.ai/?_sc=NjE2OTkxNyMyODYyODQ%3D&utm_campaign=vllm_sglang_launch&utm_medium=email&utm_source=brevo#curriculum)
 
+* [Serve Your Own LLM: vLLM & SGLang, End-to-End](https://www.youtube.com/watch?v=3FbgWrSwp1c)
+
 ***
 
 * [Find the Bottleneck: Optimize AI Pipelines With Nsight Systems](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-AC-14+V1)
