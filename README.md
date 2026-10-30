@@ -4,6 +4,8 @@
 
 * [Serve Your Own LLM: vLLM & SGLang, End-to-End](https://www.youtube.com/watch?v=3FbgWrSwp1c)
 
+* [How LLM Serving Works: An Introduction to vLLM and SGLang](https://www.youtube.com/watch?v=vM3kzJIPvvw&t=27s)
+
 ***
 
 * [Find the Bottleneck: Optimize AI Pipelines With Nsight Systems](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-AC-14+V1)
