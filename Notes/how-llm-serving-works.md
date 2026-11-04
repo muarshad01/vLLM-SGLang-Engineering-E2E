@@ -25,4 +25,8 @@
 
 * 40:00
 
+* 80 GB -> 32 transformer layers -> 500 MB per layer
 
+***
+
+* 50:00
