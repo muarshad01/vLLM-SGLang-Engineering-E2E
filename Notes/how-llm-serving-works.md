@@ -21,6 +21,6 @@
 
 ***
 
-<img src="https://github.com/muarshad01/vLLM-SGLang-Engineering-E2E/blob/main/images/memory-compute.png" width="500" height="300" />
+<img src="https://github.com/muarshad01/vLLM-SGLang-Engineering-E2E/blob/main/images/memory-compute.png" width="300" height="500" />
 
 
