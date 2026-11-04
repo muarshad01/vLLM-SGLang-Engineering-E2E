@@ -1,8 +1,11 @@
 #!/bin/bash
 
-clean
+# ssh-add -k ~/.ssh/id_rsa
+
+clear
 
 git pull
-git add . 
+
+git add .
 git commit -m "update"
 git push
