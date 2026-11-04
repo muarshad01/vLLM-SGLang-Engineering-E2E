@@ -19,8 +19,10 @@
 * 30:00
 * Ollama or llama.cpp
 
+<img src="https://github.com/muarshad01/vLLM-SGLang-Engineering-E2E/blob/main/images/memory-compute.png" width="300" height="500" />
+
 ***
 
-<img src="https://github.com/muarshad01/vLLM-SGLang-Engineering-E2E/blob/main/images/memory-compute.png" width="300" height="500" />
+* 40:00
 
 
