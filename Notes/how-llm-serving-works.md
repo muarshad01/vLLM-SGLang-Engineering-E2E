@@ -4,3 +4,19 @@
 
 ***
 
+* 10:00
+  
+* VRAM - 80 GB and 16 GB is for weights.
+* SRAM - 30 MB
+* VRAM to SRAM data transfer speed: 3.35 TB/s
+* Computation speed: 989 TFLOPs/s
+* KV Cache per token: 128 KB
+* KV Cache per 2,500 token chat: ~320 MB
+* Left for KV Cache after weights: 54 GB
+
+***
+
+* 20:00
+
+***
+
