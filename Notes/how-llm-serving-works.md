@@ -30,3 +30,19 @@
 ***
 
 * 50:00
+
+***
+
+#### Size of KV_Cache
+* l : number of transformer blocks layers
+* b : batch size
+* s : sequence length (context length)
+* h : attention head dimension ($d_{head}$)
+* $n_{heads}$ : number of attention heads
+* 2 : number of byptes per PF (Assume each parameter takes 2 bytes)
+* 2 : Two caches one each for (k,v)
+
+$$\text{Bytes ~taken ~up ~by ~KV cache} = l \times b \times s \times \underbrace{h \times n_{heads}}_{d_{model}} \times 2 \times 2$$
+
+
+***
