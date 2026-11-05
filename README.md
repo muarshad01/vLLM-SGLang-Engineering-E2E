@@ -11,7 +11,7 @@
 ***
 
 * [Find the Bottleneck: Optimize AI Pipelines With Nsight Systems](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-AC-14+V1)
-* [Visualize and understand GPU memory in PyTorch](https://huggingface.co/blog/train_memory)
+* ~~[Visualize and understand GPU memory in PyTorch](https://huggingface.co/blog/train_memory)~~
 
 *** 
 
