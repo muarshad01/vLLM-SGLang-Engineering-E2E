@@ -1,4 +1,4 @@
-## vLLM-SGLang-Engineering-E2E
+## vLLM and SGLang Engineering E2E
 * [How LLM Serving Works: An Introduction to vLLM and SGLang](https://github.com/muarshad01/vLLM-SGLang-Engineering-E2E/blob/main/Notes/how-llm-serving-works.md) -- Nov 05, 2026
 * [Journey of a token in vLLM and SGLang](https://www.youtube.com/watch?v=IDjyrXKsC5U) 
 
