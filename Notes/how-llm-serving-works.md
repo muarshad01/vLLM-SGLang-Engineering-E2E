@@ -48,6 +48,10 @@ $$\text{Bytes ~taken ~up ~by ~KV cache} = l \times b \times s \times \underbrace
 
 * 1:00:00
 
+
+
+#### PagedAttention
+
 ***
 
 
