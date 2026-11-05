@@ -44,5 +44,11 @@
 
 $$\text{Bytes ~taken ~up ~by ~KV cache} = l \times b \times s \times \underbrace{h \times n_{heads}}_{d_{model}} \times 2 \times 2$$
 
+***
+
+* 1:00:00
 
 ***
+
+
+
