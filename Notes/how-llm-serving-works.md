@@ -51,13 +51,12 @@ $$\text{Bytes ~taken ~up ~by ~KV cache} = l \times b \times s \times \underbrace
 * 1:00:00
 
 <p align="center">
-  <img src="https://github.com/muarshad01/vLLM-SGLang-Engineering-E2E/blob/main/images/kv-cache-context-length.png" width="500" height="300" />
-</p>
-
-<p align="center">
   <img src="https://github.com/muarshad01/vLLM-SGLang-Engineering-E2E/blob/main/images/kv-cache-per-token.png" width="500" height="300" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/muarshad01/vLLM-SGLang-Engineering-E2E/blob/main/images/kv-cache-context-length.png" width="500" height="300" />
+</p>
 
 #### PagedAttention
 
