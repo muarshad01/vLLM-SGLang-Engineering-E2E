@@ -19,7 +19,9 @@
 * 30:00
 * Ollama or llama.cpp
 
-<img src="https://github.com/muarshad01/vLLM-SGLang-Engineering-E2E/blob/main/images/memory-compute.png" width="300" height="500" />
+<p align="center">
+  <img src="https://github.com/muarshad01/vLLM-SGLang-Engineering-E2E/blob/main/images/memory-compute.png" width="300" height="500" />
+</p>p
 
 ***
 
@@ -48,6 +50,13 @@ $$\text{Bytes ~taken ~up ~by ~KV cache} = l \times b \times s \times \underbrace
 
 * 1:00:00
 
+<p align="center">
+  <img src="https://github.com/muarshad01/vLLM-SGLang-Engineering-E2E/blob/main/images/kv-cache-context-length.png" width="500" height="300" />
+</p>p
+
+<p align="center">
+  <img src="[memory-compute.png](https://github.com/muarshad01/vLLM-SGLang-Engineering-E2E/blob/main/images/kv-cache-per-token.png)" width="500" height="300" />
+</p>p
 
 
 #### PagedAttention
