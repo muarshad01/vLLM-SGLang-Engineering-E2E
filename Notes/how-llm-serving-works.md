@@ -52,11 +52,11 @@ $$\text{Bytes ~taken ~up ~by ~KV cache} = l \times b \times s \times \underbrace
 
 <p align="center">
   <img src="https://github.com/muarshad01/vLLM-SGLang-Engineering-E2E/blob/main/images/kv-cache-context-length.png" width="500" height="300" />
-</p>p
+</p>
 
 <p align="center">
-  <img src="[memory-compute.png](https://github.com/muarshad01/vLLM-SGLang-Engineering-E2E/blob/main/images/kv-cache-per-token.png)" width="500" height="300" />
-</p>p
+  <img src="https://github.com/muarshad01/vLLM-SGLang-Engineering-E2E/blob/main/images/kv-cache-per-token.png" width="500" height="300" />
+</p>
 
 
 #### PagedAttention
