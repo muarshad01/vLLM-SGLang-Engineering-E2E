@@ -66,7 +66,10 @@ $$\text{Bytes ~taken ~up ~by ~KV cache} = l \times b \times s \times \underbrace
 
 ***
 
+#### Static versus Continuous Batching
 
+
+***
 
 
 
