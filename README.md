@@ -1,8 +1,7 @@
 ## vLLM-SGLang-Engineering-E2E
-
-#### [vLLM & SGLang Engineering: End-to-End](https://vllm-sglang.vizuara.ai/?_sc=NjE2OTkxNyMyODYyODQ%3D&utm_campaign=vllm_sglang_launch&utm_medium=email&utm_source=brevo#curriculum)
 * [How LLM Serving Works: An Introduction to vLLM and SGLang](https://github.com/muarshad01/vLLM-SGLang-Engineering-E2E/blob/main/Notes/how-llm-serving-works.md)
-* [Journey of a token in vLLM and SGLang](https://www.youtube.com/watch?v=IDjyrXKsC5U) -- Oct 31, 2026
+* [Schedule: vLLM & SGLang Engineering: End-to-End](https://vllm-sglang.vizuara.ai/?_sc=NjE2OTkxNyMyODYyODQ%3D&utm_campaign=vllm_sglang_launch&utm_medium=email&utm_source=brevo#curriculum)
+* [Journey of a token in vLLM and SGLang](https://www.youtube.com/watch?v=IDjyrXKsC5U) 
 * [Serve Your Own LLM: vLLM & SGLang, End-to-End](https://www.youtube.com/watch?v=3FbgWrSwp1c)
 
 ***
