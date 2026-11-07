@@ -4,7 +4,7 @@
 
 #### Four Steps
 * Stpe-1: Foundations
-* Stpe-2: Serving Formats
+* Stpe-2: Serving Formats - vLLM, SGLang, TensorRT-LLM, Dynamo, llama.cpp (edge devices)
 * Step-3: Optimization
 * Step-4: Scale & Ship
 ***
