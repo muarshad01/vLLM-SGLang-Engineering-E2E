@@ -3,6 +3,7 @@
 * https://microsoft.ai/careers/job/4390719009/ai-infrastructure-inference/?utm_source=chatgpt.com
 * https://jobs.ashbyhq.com/perplexity/e4777627-ff8f-4257-8612-3a016bb58592/?utm_source=chatgpt.com
 * https://jobs.ashbyhq.com/mistral.ai/162e8d27-8a88-403e-9f35-2bf541b387d7?utm_source=chatgpt.com
+* https://inworld.ai/careers/bf5054ab-ed19-4890-8f0b-ca8a57210e42
 
 ```
 Priority - Job title
