@@ -1,6 +1,12 @@
 ## Inference Engineer
 * [The only roadmap you need to become an Inference Engineer](https://www.youtube.com/shorts/FROQYloBOFg)
+* ~2/3 of AI Compute
 
+#### Four Steps
+* Stpe-1: Foundations
+* Stpe-2: Serving Formats
+* Step-3: Optimization
+* Step-4: Scale & Ship
 ***
 
 #### vLLM and SGLang Engineering E2E
