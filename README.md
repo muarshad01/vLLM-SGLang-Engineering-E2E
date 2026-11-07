@@ -10,6 +10,12 @@
 
 ***
 
-* ~~[Visualize and understand GPU memory in PyTorch](https://huggingface.co/blog/train_memory)~~
+#### Part 1: Inside both engines
+|||
+|---|---|
+| Lecture 1: vLLM architecture and the request lifecycle | |
+| Lecture 2: SGLang architecture: frontend language and the SRT runtime ||
+
+***
 
 ***
