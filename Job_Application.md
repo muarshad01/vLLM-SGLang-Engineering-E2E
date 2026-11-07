@@ -1,5 +1,3 @@
-* [The only roadmap you need to become an Inference Engineer](https://www.youtube.com/shorts/FROQYloBOFg)
-
 ***
 
 * [Performance Engineer, GPU](https://job-boards.greenhouse.io/anthropic/jobs/4926227008)
