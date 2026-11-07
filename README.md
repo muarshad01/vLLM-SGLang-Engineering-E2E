@@ -11,11 +11,40 @@
 ***
 
 #### Part 1: Inside both engines
-|||
-|---|---|
-| Lecture 1: vLLM architecture and the request lifecycle | |
-| Lecture 2: SGLang architecture: frontend language and the SRT runtime ||
+| Lecture | Notes | Date |
+|---|---|---|
+| Lecture 1: vLLM architecture and the request lifecycle | ||
+| Lecture 2: SGLang architecture: frontend language and the SRT runtime |||
 
-***
+#### Part 2: Serving on each
+| Lecture | Notes | Date |
+|---|---|---|
+| Lecture 3: Serving with vLLM | ||
+| Lecture 4: Serving with SGLang | ||
+
+#### Part 3: Measure, then tune
+| Lecture | Date ||
+|---|---|---|
+| Lecture 5: Benchmarking both engines with one harness | ||
+| Lecture 6: vLLM performance engineering | ||
+
+
+#### Part 4: Tune, quantize, fit
+| Lecture | Date ||
+|---|---|---|
+| Lecture 7: SGLang performance engineering | ||
+| Lecture 8: Quantization and memory engineering on both engines | ||
+
+#### Part 5: Scale and speculate
+| Lecture | Date ||
+|---|---|---|
+| Lecture 9: Multi-GPU and mixture-of-experts serving | ||
+| Lecture 10: Speculative decoding and disaggregated prefill and decode | ||
+
+#### Part 6: Production and the choice
+| Lecture | Date ||
+|---|---|---|
+| Lecture 11: Production: routers, Kubernetes, metrics and cost | ||
+| Lecture 12: Choosing, migrating, extending, and the capstone | ||
 
 ***
