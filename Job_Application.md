@@ -1,3 +1,12 @@
+#### Focus
+```
+Priority - Job title
+* Very high - Staff / Principal AI Inference Engineer
+* Very high - Senior GPU Performance Engineer
+* Very high - CUDA / GPU Kernel Engineer
+* Very high - LLM Inference Optimization Engineer
+```
+
 ***
 
 * Perplexity (Inference)
