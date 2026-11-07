@@ -219,3 +219,17 @@ An "active duty wartime or campaign badge veteran" means a veteran who served on
 An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
 ```
 
+#### Compensation
+```
+5. Compensation expectations
+For someone with your qualifications, I would initially target these approximate annual base-salary ranges. These are planning estimates, not verified offers.
+
+Location - Target base salary
+* Switzerland - CHF 180k–280k+
+* UK - £110k–180k+
+* Germany - €110k–170k
+* Netherlands - €100k–160k
+* France - €90k–150k
+
+At Staff/Principal level, total compensation can be considerably higher, especially at NVIDIA, Microsoft and major AI companies.
+```
