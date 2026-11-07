@@ -7,6 +7,23 @@
 * https://lyceum-technology.jobs.personio.com/job/2572954?utm_source=chatgpt.com
 
 ```
+4. My recommendation for your positioning
+- I would market your profile as:
+- Staff / Principal GPU & AI Inference Systems Engineer
+- Your resume should emphasize measurable engineering accomplishments in these areas:
+
+* CUDA kernel development and optimization.
+* GPU architecture, memory bandwidth, occupancy and compute utilization.
+* LLM inference optimization and serving.
+* TensorRT-LLM, vLLM, SGLang, Triton.
+* Multi-GPU communication, NCCL, NVLink, RDMA.
+* Distributed systems and high-performance computing.
+* Profiling, benchmarking, latency and throughput optimization.
+- One important point: Don't position yourself merely as an AI engineer. Position yourself as a systems engineer who understands GPUs deeply and can make AI models run substantially faster and cheaper.
+```
+
+
+```
 Priority - Job title
 * Very high - Staff / Principal AI Inference Engineer
 * Very high - Senior GPU Performance Engineer
