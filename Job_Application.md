@@ -1,6 +1,7 @@
 #### Focus
 * AI Systems, ML Infrastructure, Performance Engineering, or Accelerated Computing
 * https://microsoft.ai/careers/job/4390719009/ai-infrastructure-inference/?utm_source=chatgpt.com
+* https://jobs.ashbyhq.com/perplexity/e4777627-ff8f-4257-8612-3a016bb58592/?utm_source=chatgpt.com
 
 ```
 Priority - Job title
