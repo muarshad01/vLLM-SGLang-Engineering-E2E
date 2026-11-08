@@ -16,6 +16,7 @@
 ***
 
 #### Course
+* [How inference works at scale? vLLM and SGLang inference engines](https://www.youtube.com/watch?v=f4WDLg2sbx4)
 * [Serve Your Own LLM: vLLM & SGLang, End-to-End (5 mins)](https://www.youtube.com/watch?v=3FbgWrSwp1c)
 * [Schedule: vLLM & SGLang Engineering: End-to-End](https://vllm-sglang.vizuara.ai/?_sc=NjE2OTkxNyMyODYyODQ%3D&utm_campaign=vllm_sglang_launch&utm_medium=email&utm_source=brevo#curriculum)
 
