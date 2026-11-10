@@ -1,4 +1,5 @@
 #### Focus
+* [Senior Deep Learning Software Engineer, Inference](https://jobs.nvidia.com/careers/job?pid=893391006400)
 * [Senior Inference Engineer, GPU Kernel Optimization](https://jobs.nvidia.com/careers/job/893396599937)
 * AI Systems, ML Infrastructure, Performance Engineering, or Accelerated Computing
 * https://microsoft.ai/careers/job/4390719009/ai-infrastructure-inference/?utm_source=chatgpt.com
