@@ -15,6 +15,10 @@
 
 ***
 
+* [vLLM versus SGLang](https://www.youtube.com/shorts/nNXWEa4pymw)
+
+***
+
 #### Course
 * [How inference works at scale? vLLM and SGLang inference engines](https://www.youtube.com/watch?v=f4WDLg2sbx4)
 * [Serve Your Own LLM: vLLM & SGLang, End-to-End (5 mins)](https://www.youtube.com/watch?v=3FbgWrSwp1c)
